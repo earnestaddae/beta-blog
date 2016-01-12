@@ -14,3 +14,23 @@ $navbar-default-bg: #080883;
   color: #fff;
   text-decoration: none;
 }
+
+.jumbotron {
+  height: 400px;
+}
+
+.jumbotron h1 {
+  margin-top: 60px;
+}
+
+footer {
+  border-top: 1px solid #efefef;
+}
+footer ul {
+  float: right;
+  list-style-type: none;
+}
+
+footer small {
+  float: left;
+}
